@@ -12,7 +12,7 @@
 7.	Ditest melalui POSTMAN
 8.	Prefix endpointnya adalah “/api/v1/”
 9.	Deploy (online)!
-- code : [Code Question 2](inventory-api/)
+- code : [Code Question 2](https://github.com/mbahgembrong/Yatech-Competency-Rest)
 - link website : [Inventory API](https://vert-baguette-71436.herokuapp.com/api/v1/)
 
 ### route:
